@@ -22,6 +22,6 @@ CRIANDO NOVAS BRANCH
 03 - git status
 04 - git add .
 05 - git commit -m "Descrição do commit"
-06 - git push -- set-upstream origin 002-branch
+06 - git push --set-upstream origin 002-branch
 07 - No site do GitHub ir no projeto, e mandar compare & pull request
 08 - (EX: Dar um PR para homologacao. )
